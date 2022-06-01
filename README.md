@@ -33,6 +33,7 @@ My plan right now is to finish the stydy Front-End Development at Noroff, and ho
 - [HTML]()
 - [CSS]()
 - [JS]()
+- [Adobe XD]()
 - [WordPress]()
 - [Hotjar]()
 - [Netlify]()
