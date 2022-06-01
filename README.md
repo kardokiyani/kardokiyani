@@ -1,4 +1,4 @@
-# Hi there, welcome to my profile, this is Kardo Kiyani, here you can find more info about me. 👋
+# Hi there, I`m Kardo Kiyani👋
 
 <!--
 **kardokiyani/kardokiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
