@@ -24,7 +24,7 @@ I am a frontend developer student at Noroff, currently studying my first year. I
 - Kurdish
 
 ## 😄 My dreams:
-My dream is to be a successful front end developer and hopfully own my own company one day.
+My dream is to be a successful Front-End developer and hopfully own my own company one day.
 
 ## 🔭 My plans:
 My plan right now is to finish the stydy Front-End Development at Noroff, and hopefully start studying Back-End Development at Norrof too after I have finished studying Front-End Development. These are my plans for now.
