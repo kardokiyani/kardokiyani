@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my profile, this is Kardo Kiyani, here you can find more info about me. 👋
 
 <!--
 **kardokiyani/kardokiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🌱 About me:
+I am a frontend developer student at Noroff, currently studying my first year. I love coding, but I also love sport, especially football, mma and basketball. I am 23 years old and live in Trondheim, Norway.
+
+## ⚡ Languages I speak:
+- Norwegian
+- English
+- Kurdish
+
+## 📫 How to contact me:
+
+This is my social links if you want to contact me:
+
+[My Instagram page](https://www.instagram.com/)
+
+[My Facebook page](https://www.facebook.com/)
