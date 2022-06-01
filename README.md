@@ -23,6 +23,17 @@ I am a frontend developer student at Noroff, currently studying my first year. I
 - English
 - Kurdish
 
+## 😄 My dreams:
+- My dream is to be a successful front end developer and hopfully own my own company one day.
+
+## 😄 My experience so far:
+- [HTML]()
+- [CSS]()
+- [JS]()
+- [WordPress]()
+- [Hotjar]()
+- [Netlify]()
+
 ## 📫 How to contact me:
 
 This is my social links if you want to contact me:
