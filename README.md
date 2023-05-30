@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About me:
-I am a frontend developer student at Noroff, currently studying my first year. I love coding, but I also love sport, especially football, mma and basketball. I am 23 years old and live in Trondheim, Norway.
+I am a frontend developer student at Noroff, currently studying my second year. I love coding, but I also love sport, especially football, mma and basketball. I am 24 years old and live in Trondheim, Norway.
 
 ## ⚡ Languages I speak:
 - Norwegian
