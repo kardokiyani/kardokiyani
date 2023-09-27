@@ -27,7 +27,7 @@ I am a frontend developer student at Noroff, currently studying my second year. 
 My dream is to be a successful Front-End Developer and hopfully own my own company one day.
 
 ## 🔭 My plans:
-My plan right now is to finish the study Front-End Development at Noroff, and hopefully start studying Back-End Development at Norrof too after I have finished studying Front-End Development. These are my plans for now. But I might also search for jbs in the summer.
+My plan right now is to finish the study Front-End Development at Noroff, and hopefully start studying Back-End Development at Norrof too after I have finished studying Front-End Development. These are my plans for now. But I might also search for jobs in the summer.
 
 ## 💬 My experience so far:
 - [HTML]()
