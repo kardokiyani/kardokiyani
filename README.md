@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About me:
-I am a frontend developer student at Noroff, currently studying my second year. I am 24 years old and live in Trondheim, Norway. I will finish this frontend study this summer and hopfully searching for jobs in the summer, but i might continue study more, we`ll see what happens. I love coding, but I also love sport, especially football, mma and basketball.
+I am 25 years old and live in Trondheim, Norway. I love coding, but I also love sport, especially football, mma and basketball.
 
 ## ⚡ Languages I speak:
 - Norwegian
@@ -24,10 +24,10 @@ I am a frontend developer student at Noroff, currently studying my second year. 
 - Kurdish
 
 ## 😄 My dreams:
-My dream is to be a successful Front-End Developer and hopfully own my own company one day.
+My dream is to be a successful Front-End Developer/Back-end Developer and hopfully own my own company one day.
 
 ## 🔭 My plans:
-My plan right now is to finish the study Front-End Development at Noroff, and hopefully start studying Back-End Development at Norrof too after I have finished studying Front-End Development. These are my plans for now. But I might also search for jobs in the summer.
+My plan right now is to apply for jobs as I finished my frontend study last summer at Noroff and my backend study this summer at Noroff.
 
 ## 💬 My experience so far:
 - [HTML]()
@@ -38,11 +38,14 @@ My plan right now is to finish the study Front-End Development at Noroff, and ho
 - [WordPress]()
 - [Hotjar]()
 - [Netlify]()
+- [My SQL Workbench]()
+- [Postman]()
+- [Visual Studui Code]()
+- [Github Desktop]()
+- [Docker Desktop]()
 
 ## 📫 How to contact me:
 
-This is my social links if you want to contact me:
+You can contact me at:
 
-[My Instagram page](https://www.instagram.com/)
-
-[My Facebook page](https://www.facebook.com/)
+kardo1998@gmail.com
