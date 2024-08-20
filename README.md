@@ -42,7 +42,7 @@ My plan right now is to apply for jobs as I finished my frontend study last summ
 - [Netlify]()
 - [My SQL Workbench]()
 - [Postman]()
-- [Visual Studui Code]()
+- [Visual Studio Code]()
 - [Github Desktop]()
 - [Docker Desktop]()
 
