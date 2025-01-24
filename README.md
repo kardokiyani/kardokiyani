@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 About me:
-I am 25 years old and live in Trondheim, Norway. I love coding, but I also love sport, especially football, mma and basketball.
+I am 26 years old and live in Trondheim, Norway. I love coding, but I also love sport, especially football, mma and basketball.
 
 I have finished 2 year Front-End vocational education and 1 year Back-End vocational education, in total 3 years at Noroff and are currently looking for jobs in these fields.
 
