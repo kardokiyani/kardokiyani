@@ -29,7 +29,7 @@ I have finished 2 year Front-End vocational education and 1 year Back-End vocati
 My dream is to be a successful Front-End Developer/Back-end Developer and hopfully own my own company one day.
 
 ## 🔭 My plans:
-My plan right now is to apply for jobs as I finished my frontend study last summer at Noroff and my backend study this summer at Noroff.
+My plan right now is to apply for jobs as I have finished my frontend and backend studies.
 
 ## 💬 My experience so far:
 - [HTML]()
